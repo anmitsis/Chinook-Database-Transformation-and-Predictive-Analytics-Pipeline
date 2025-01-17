@@ -29,9 +29,15 @@ This project demonstrates the process of transforming the Chinook database from 
 
 ### 2. **Power BI Dashboard**
 
-- A Power BI dashboard is created to visualize the data from the OLAP warehouse.
-  - The dashboard includes key metrics like sales performance, customer trends, and employee data.
-  - The `Chinook Dashboard.pbix` file will be available for import into Power BI.
+A Power BI dashboard has been created to visualize the data from the OLAP warehouse.  
+The dashboard includes key metrics like sales performance, customer trends, and employee data.
+
+- The `Chinook Dashboard.pbix` file will be available for import into Power BI.
+- Additionally, a **PDF version of the dashboard** is available for a preview, providing a static snapshot of the key metrics and visualizations.
+
+### Files Available:
+- **Chinook Dashboard.pbix**: [Download the PBIX file](./PowerBI/Chinook%20Dashboard.pbix)
+- **Chinook Dashboard Preview (PDF)**: [Download the PDF preview](./PowerBI/Chinook%20Dashboard.pdf)
 
 ### 3. **Data Analysis with Python**
 
