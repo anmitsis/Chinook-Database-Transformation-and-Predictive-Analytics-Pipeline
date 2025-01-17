@@ -96,4 +96,4 @@ You can find the full license for the Chinook database [here](https://github.com
 
 ## **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
