@@ -84,7 +84,9 @@ This project demonstrates the process of transforming the Chinook database from 
 - **Python**: For data analysis and machine learning (using libraries such as pandas, seaborn, matplotlib, and scikit-learn).
 
 ### **Credits**
-This project uses the [Chinook Database - OLTP](https://github.com/lerocha/chinook-database) from the official Chinook GitHub repository. Special thanks to the repository authors for making the dataset available.
+This project uses the [Chinook Database - OLTP](https://github.com/lerocha/chinook-database), which is licensed under the **MIT License**. Special thanks to the repository authors for making the dataset available. 
+
+You can find the full license for the Chinook database [here](https://github.com/lerocha/chinook-database/blob/master/LICENSE.md).
 
 ## **License**
 
