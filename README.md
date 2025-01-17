@@ -1,4 +1,4 @@
-# **Data Warehouse Transformation and Analysis: OLTP to OLAP with Machine Learning**
+# **Chinook Database Transformation and Predictive Analysis Pipeline**
 
 ## **Project Overview**
 
